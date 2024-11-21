@@ -2,3 +2,5 @@ bu ucuncu bir satir
 
 
 c users sublime text
+
+ucuncu dosyanin ikinci satiri
